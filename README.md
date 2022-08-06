@@ -1,2 +1,2 @@
-# Apeperia
-Projeto HTML e CSS desenvolvido em mobile-first
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
